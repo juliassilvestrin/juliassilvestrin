@@ -4,7 +4,7 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=juliassilvestrin&style=for-the-badge&color=C9184A&label=PROFILE+VIEWS)
+
 
 <br/><br/>
 
