@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6FA5,C9184A&height=160&section=header&text=Julia%20Silvestrin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Technical%20Program%20Manager%20✦%20Software%20Engineer&descAlignY=68&descSize=17&descColor=FFD6E7"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C9184A&height=160&section=header&text=Julia%20Silvestrin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=45&desc=Technical%20Program%20Manager%20✦%20Software%20Engineer&descAlignY=68&descSize=17&descColor=FFD6E7"/>
 
 <br/>
 
@@ -100,7 +100,7 @@ Brazilian, bilingual in English and Portuguese, and always up for conversations 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF6FA5,C9184A&height=80&section=footer"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C9184A&height=80&section=footer"/>
 </div>
 
 <p align="center"><i>Always happy to connect — feel free to reach out! ✦</i></p>
