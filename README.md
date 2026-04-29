@@ -1,10 +1,14 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C9184A&height=140&section=header&text=Julia%20Silvestrin&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+<img width="100%" src="banner.svg" alt="Julia Silvestrin"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=20&duration=3000&pause=1200&color=C9184A&center=true&vCenter=true&width=540&lines=Bridging+people+%26+technology+%E2%9C%A8;Technical+Program+Manager+%40+Studio+Node;Software+Engineering+Senior+%40+Utah+Tech;Brazilian+%7C+Bilingual+%7C+Builder)](https://git.io/typing-svg)
+![Profile Views](https://komarev.com/ghpvc/?username=juliassilvestrin&style=for-the-badge&color=C9184A&label=PROFILE+VIEWS)
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&size=22&duration=3000&pause=1200&color=C9184A&center=true&vCenter=true&width=600&lines=Technical+Program+Manager+%40+Studio+Node;Software+Engineering+Senior+%40+Utah+Tech;Bridging+people+%26+technology;Brazilian+%7C+Bilingual+%7C+Builder)](https://git.io/typing-svg)
 
 <br/>
 
@@ -34,19 +38,11 @@ Brazilian, bilingual in English and Portuguese, and always up for conversations 
 
 ### ✦ Tech Stack
 
-<p>
-  <img src="https://img.shields.io/badge/Vue.js-C9184A?style=for-the-badge&logo=vuedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React%20Native-9D4F6B?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-E5899E?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-C9184A?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-9D4F6B?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-E5899E?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Unity-C9184A?style=for-the-badge&logo=unity&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-9D4F6B?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-E5899E?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-C9184A?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-9D4F6B?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+<div align="center">
+
+[![My Skills](https://skillicons.dev/icons?i=vue,react,js,ts,nodejs,mongodb,unity,figma,python,html,css&theme=light&perline=11)](https://skillicons.dev)
+
+</div>
 
 ---
 
@@ -55,14 +51,14 @@ Brazilian, bilingual in English and Portuguese, and always up for conversations 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 Tutoring Center</h4>
+      <h4>Tutoring Center</h4>
       <p>A web application built for Utah Tech University's Department of Computing to help students access tutoring information.</p>
       <a href="https://github.com/juliassilvestrin/seniorproject">
         <img src="https://img.shields.io/badge/View%20Repository-C9184A?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>🌿 The Ingredient Translator</h4>
+      <h4>The Ingredient Translator</h4>
       <p>A web app that adapts Brazilian recipes for American kitchens with cultural context and measurement conversions.</p>
       <a href="https://github.com/juliassilvestrin/TheIngredientTranslator">
         <img src="https://img.shields.io/badge/View%20Repository-9D4F6B?style=for-the-badge&logo=github&logoColor=white"/>
@@ -71,14 +67,14 @@ Brazilian, bilingual in English and Portuguese, and always up for conversations 
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎣 Lake Legend</h4>
+      <h4>Lake Legend</h4>
       <p>A 2D pixel art fishing game built in Unity. Race against the clock to catch as many fish as possible.</p>
       <a href="https://github.com/juliassilvestrin/FishingGame">
         <img src="https://img.shields.io/badge/View%20Repository-C9184A?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
     </td>
     <td width="50%" valign="top">
-      <h4>🏠 Floodline Restoration</h4>
+      <h4>Floodline Restoration</h4>
       <p>Marketing and informational website for Floodline Restoration of Southern Utah, a restoration services company.</p>
       <a href="https://github.com/juliassilvestrin/Floodline">
         <img src="https://img.shields.io/badge/View%20Repository-9D4F6B?style=for-the-badge&logo=github&logoColor=white"/>
